@@ -1,0 +1,10 @@
+insert 3 true
+insert 5 true
+remove 3 true
+insert 7 true
+remove 7 true
+lookup 2 false
+lookup 5 true
+remove 5 true
+remove 2 false
+insert 6 true

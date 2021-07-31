@@ -1,0 +1,11 @@
+insert          3 ->  true : match
+insert          5 ->  true : match
+remove          3 ->  true : match
+insert          7 ->  true : match
+remove          7 ->  true : match
+lookup          2 -> false : match
+lookup          5 ->  true : match
+remove          5 ->  true : match
+remove          2 -> false : match
+insert          6 ->  true : match
+Total collisions = 4
